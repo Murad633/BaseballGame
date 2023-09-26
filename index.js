@@ -1,4 +1,4 @@
-var calPoints = function(operations) {
+var calPoints = function(ops) {
     let repo = [];
     let initialValue = 0;
     for(let op of ops) {
